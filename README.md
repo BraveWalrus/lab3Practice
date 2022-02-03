@@ -1,10 +1,5 @@
-# lab3Practice
-<<<<<<< HEAD
-Project Team Members:
-Bartek Wardega
-=======
-Project Team Members:
-Bartek Wardega
->>>>>>> main
+# lab3Practic
 
-This is test for the lab
+
+This is a test, editing the README
+>>>> main
