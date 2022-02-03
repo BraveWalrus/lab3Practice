@@ -1,5 +1,5 @@
-# lab3Practice
-Project Team Members: Annwen
-This is here to ruin things
-yay
-Hi
+# lab3Practic
+Project Team Members:
+Bartek Wardega
+Ned Arnold
+Alex Hubben
